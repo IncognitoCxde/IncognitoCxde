@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @IncognitoCxde
 - 👀 I’m interested in programming,coding,scripting.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me: benissaeaston@gmail.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I love doodling random stuff on my notebooks 😇✌🏻
 
 <!---
