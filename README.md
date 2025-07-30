@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @IncognitoCxde
 - 👀 I’m interested in programming,coding,scripting.
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on Projects
+- 🌱 I’m currently learning Computer Science
+- 💞️ I’m looking to sharpen my skills
 - 📫 How to reach me: benissaeaston@gmail.com
-- ⚡ Fun fact: I love doodling random stuff on my notebooks 😇✌🏻
+- ⚡ Fun fact: I'm studying A level 9618
 
 <!---
 IncognitoCxde/IncognitoCxde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
