@@ -8,10 +8,8 @@
 
 • 📖 Creator of 'Sawti', an audiobook app designed for the National Library of Tajikistan
 
-
-
-
-
+Softwares I work with: XCode, Git, VSCode, Postman, Rapid
+Languages I work with: HTML5/CSS/JS, Swift, Python, C/C++
 
 <!---
 IncognitoCxde/IncognitoCxde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
