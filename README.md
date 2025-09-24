@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IncognitoCxde
-- 👀 I’m interested in programming,coding,scripting.
+- 👀 I’m interested in programming ,coding ,scripting.
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to sharpen my skills
+- 💻 I mostly code in Swift
 - 📫 How to reach me: benissaeaston@gmail.com
 - ⚡ Fun fact: I'm studying A level 9618
 
