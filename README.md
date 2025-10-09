@@ -10,7 +10,7 @@
 
 Softwares I work with: XCode, Git, VSCode, Postman, Rapid
 
-Languages I work with: HTML5/CSS/JS, UIKit/SwiftUI, Python, C/C++
+Languages I work with: UIKit/SwiftUI, HTML5/CSS/JS, Python, C/C++
 
 Other skills: Pseudocode, Flowcharts and Algorithms, UML
 
