@@ -1,4 +1,4 @@
-👋 Hey there! I'm IncognitoCxde (that's my nickname :) )
+👋 Hey there! I'm IncognitoCxde
 
 (CompScientist, Developer , Student)
 
